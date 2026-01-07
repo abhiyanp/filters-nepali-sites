@@ -1,2 +1,4 @@
 ratopati.com##.sidebar-adv.dnn-ad-placeholder
 ratopati.com##.full-banner-adv
+
+bizshala.com##.sidebar-advs
